@@ -10,6 +10,7 @@
         $(function () {
             $('[data-toggle="tooltip"]').tooltip()
         })
+        
     </script>
     
         <section id="calendar-cours">
